@@ -13,7 +13,7 @@ This is a solution to the [Audiophile e-commerce website challenge on Frontend M
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-- [Author](#author)
+
 
 ## Overview
 
